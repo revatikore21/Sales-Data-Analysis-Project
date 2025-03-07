@@ -30,4 +30,4 @@ The final output is an interactive Dashboard.
 This project demonstrates my skills in data importing, cleaning, pivot table creation, and data visualization using Excel. By leveraging these tools, I was able to build a comprehensive sales dashboard that provides meaningful insights into sales performance across different dimensions.
 
 #### Note: 
-(An Excel file containing the full project has been uploaded for reference, showcasing the complete analysis and dashboard. Additionally, a detailed Word document with the my analysis and insights is provided for further review.)
+(An Excel file containing the full project has been uploaded for reference, showcasing the complete analysis and dashboard. Additionally, a detailed "Word document" with the my "analysis and insights" is provided for further review.)
