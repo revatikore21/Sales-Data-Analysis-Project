@@ -1,4 +1,4 @@
-# Sales Data Analysis Project
+# ElectroSales Insights: Sales Analysis of Electronic Products Project
 ## Project Overview
 
 In this project, I performed a detailed analysis of electronic product sales across various sectors. The analysis covered monthly sales trends, with a focus on different cities, products, and categories. I examined how sales varied city-wise, product-wise, and category-wise for each month, identifying the highest and lowest sales periods. This helped in understanding sales patterns and provided valuable insights into sector-wise performance across different timeframes.
